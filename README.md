@@ -488,7 +488,7 @@ chatbot-ccd-unab/
 | Nombre | Rol |
 |--------|-----|
 | **Juan David Amaya Quintero** | Desarrollador principal — Streamlit + n8n |
-| **Efrain Alvarez Quintero** | Arquitectura del sistema — BD + RAG |
+| **Efrain Alvarez Lobo** | Arquitectura del sistema — BD + RAG |
 | **Andres Felipe Quiñones** | Workflows n8n + Integración NVIDIA |
 
 ---
