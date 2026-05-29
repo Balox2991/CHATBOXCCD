@@ -506,7 +506,7 @@ Proyecto académico desarrollado para el curso de **Ciencia de Datos**
 
 **Hecho con ❤️ por el Grupo CCD — UNAB**
 
-**HPROFESOR: ALFREDO DIAZ**
+**PROFESOR: ALFREDO DIAZ**
 
 [![UNAB](https://img.shields.io/badge/UNAB-Bucaramanga-1B2A4A?style=flat-square)](https://unab.edu.co)
 [![CCD](https://img.shields.io/badge/Centro_de_Competencias-Digitales-2563EB?style=flat-square)](https://unab.edu.co)
