@@ -237,9 +237,7 @@ Usa los datos del estudiante para personalizar respuestas.
 
 ### Captura de la aplicación
 
-> 📷 **[INSERTAR CAPTURA — Vista principal del chatbot Streamlit]**
-
-> 📷 **[INSERTAR CAPTURA — Sidebar con progreso del estudiante]**
+> <img width="1083" height="832" alt="image" src="https://github.com/user-attachments/assets/bb857018-5401-4fcd-9607-0f7a4f5ea7d4" />
 
 ### Características de la interfaz
 
