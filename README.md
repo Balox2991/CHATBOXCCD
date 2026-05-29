@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/UNAB-Centro%20de%20Competencias%20Digitales-1B2A4A?style=for-the-badge" />
 
-# 🎓 Chatbot Inteligente CCD — UNAB
+# 🎓SOMNOS - Chatbot Inteligente CCD  — UNAB
 
 ### Asistente Digital del Centro de Competencias Digitales
 **Universidad Autónoma de Bucaramanga**
