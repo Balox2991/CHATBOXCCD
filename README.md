@@ -108,6 +108,9 @@ El **Chatbot CCD UNAB** es un asistente digital inteligente desarrollado como pr
 
 ### Captura del Workflow en n8n
 
+<img width="1120" height="713" alt="image" src="https://github.com/user-attachments/assets/4a0f7492-7059-4209-b86d-89c16e6ad6cc" />
+
+
 <img width="1226" height="718" alt="image" src="https://github.com/user-attachments/assets/21e0ee39-30f8-47d4-9419-6ed2f515b113" />
 
 
