@@ -108,8 +108,9 @@ El **Chatbot CCD UNAB** es un asistente digital inteligente desarrollado como pr
 
 ### Captura del Workflow en n8n
 
-> 📷 **[INSERTAR CAPTURA DEL WORKFLOW EN N8N]**
->
+<img width="1226" height="718" alt="image" src="https://github.com/user-attachments/assets/21e0ee39-30f8-47d4-9419-6ed2f515b113" />
+
+
 > *Nodos: Webhook → Execute a SQL query → AI Agent → Respond to Webhook*
 > *Sub-nodos: OpenAI Chat Model, Simple Memory, HTTP Request (x2)*
 
