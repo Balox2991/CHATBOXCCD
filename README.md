@@ -53,7 +53,7 @@ El **Chatbot CCD UNAB** es un asistente digital inteligente desarrollado como pr
 | 🏅 Insignia CCD | Requisitos y estado para obtenerla |
 | 🧠 Memoria de conversación | Recuerda el contexto de la sesión |
 | 🌐 Noticias y cursos nuevos | Detecta novedades del sitio CCD |
-| 🔍 RAG Institucional | Consulta documentos oficiales del CCD |
+| 🔍 RAG SINTETICO | Consulta documentos oficiales del CCD |
 
 ---
 
