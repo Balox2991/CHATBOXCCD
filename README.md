@@ -237,6 +237,9 @@ Usa los datos del estudiante para personalizar respuestas.
 
 ### Captura de la aplicación
 
+<img width="930" height="589" alt="image" src="https://github.com/user-attachments/assets/3599479a-7ba1-4f40-bec2-c4e4fc60d8dd" />
+
+
 > <img width="1083" height="832" alt="image" src="https://github.com/user-attachments/assets/bb857018-5401-4fcd-9607-0f7a4f5ea7d4" />
 
 ### Características de la interfaz
@@ -302,11 +305,14 @@ CREATE TABLE progreso_estudiante (
 );
 ```
 
-> 📷 **[INSERTAR DIAGRAMA ENTIDAD-RELACIÓN]**
 
 ---
 
 ## 🧠 Sistema RAG
+
+
+
+<img width="288" height="333" alt="image" src="https://github.com/user-attachments/assets/c06ef755-493c-4e72-b311-94fff4726da8" />
 
 El sistema RAG (Retrieval Augmented Generation) permite consultar documentos institucionales del CCD.
 
@@ -343,7 +349,7 @@ Top-3 fragmentos relevantes
 LLM genera respuesta con contexto ✅
 ```
 
-> 📷 **[INSERTAR CAPTURA DEL WORKFLOW RAG EN N8N]**
+
 
 ---
 
@@ -492,13 +498,15 @@ chatbot-ccd-unab/
 Proyecto académico desarrollado para el curso de **Ciencia de Datos**  
 **Universidad Autónoma de Bucaramanga — UNAB**  
 **Centro de Competencias Digitales — CCD**  
-**2025 — 2026**
+**2026**
 
 ---
 
 <div align="center">
 
 **Hecho con ❤️ por el Grupo CCD — UNAB**
+
+**HPROFESOR: ALFREDO DIAZ**
 
 [![UNAB](https://img.shields.io/badge/UNAB-Bucaramanga-1B2A4A?style=flat-square)](https://unab.edu.co)
 [![CCD](https://img.shields.io/badge/Centro_de_Competencias-Digitales-2563EB?style=flat-square)](https://unab.edu.co)
